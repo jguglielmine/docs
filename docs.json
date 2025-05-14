@@ -48,6 +48,7 @@
             "openapi": {
               "source": "openapi.json",
               "directory": "openapi"
+            }
           }
         ]
       }
