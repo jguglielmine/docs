@@ -44,7 +44,7 @@
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Qevlar Endpoint",
             "openapi": {
               "source": "openapi/openapi.json"
             }
